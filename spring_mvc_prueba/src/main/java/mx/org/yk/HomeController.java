@@ -36,4 +36,8 @@ public class HomeController {
 		return "home";
 	}
 	
+	private void funcionPrueba() {
+		int x = 0;
+	}
+	
 }
